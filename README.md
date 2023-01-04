@@ -27,7 +27,7 @@ I am Aakash Mukherjee, currently learning Software Developement from [Masai Scho
 
 ![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackcode1996&count_private=true&theme=dark&animations=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?blackcode1996&theme=onedark=ryo-ma)
+![trophy](https://github-profile-trophy.vercel.app/?username=blackcode1996&theme=onedark=ryo-ma)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=blackcode1996.blackcode1996)
