@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey 👋, I'm<a href="https://github.com/akash-singha-3558/"> Aakash Mukherjee</a></h1> 
+<h1 align="center">Hey 👋, I'm<a href="https://github.com/blackcode1996/"> Aakash Mukherjee</a></h1> 
 
 ### Hello Developer Welcome to my Github! &nbsp; <br/>
 A tech-enthusiast, with 1000+ hours of hands-on
