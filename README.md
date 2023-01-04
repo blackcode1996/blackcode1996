@@ -1,7 +1,5 @@
-<img src="https://en.bloggif.com/tmp/a0e30140fa45e2bb1458db20fe78ff78/text.gif?1672864355" align="center"/>
 
-
-<h1 align="center">Hey 👋, I'm<a href="https://github.com/blackcode1996/"> Aakash Mukherjee</a></h1> 
+<h1 align="center"><img src="https://en.bloggif.com/tmp/a0e30140fa45e2bb1458db20fe78ff78/text.gif?1672864355"/> 🙏, I'm<a href="https://github.com/blackcode1996/"> Aakash Mukherjee</a></h1> 
 
 
 A tech-enthusiast, with 1000+ hours of hands-on
