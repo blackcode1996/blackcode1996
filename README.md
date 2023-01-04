@@ -1,5 +1,5 @@
 
-<img align="center" src="https://im3.ezgif.com/tmp/ezgif-3-1584c953b1.gif" width="50%" height="30%" frameBorder="0"/>
+<img align="center" src="https://im3.ezgif.com/tmp/ezgif-3-1584c953b1.gif" width="100%" height="100%" frameBorder="0"/>
 
 
 
