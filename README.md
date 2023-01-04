@@ -72,7 +72,7 @@ and reliability of any project assigned him.
 <!--    --> 
 
 </div>
-<hr>
+
 
 ## 🏆 GitHub Trophies and Stats
 ![](https://github-profile-trophy.vercel.app/?username=blackcode1996&column=-1&theme=chalk&rank=-?&margin-w=25)
