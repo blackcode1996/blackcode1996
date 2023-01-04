@@ -7,7 +7,7 @@
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Quick+learner;Problem+Solver;&color=teal&center=true" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 A tech-enthusiast, with 1000+ hours of hands-on
 coding & project experience in developing websites and has a robust problem-solving mindset which
@@ -20,7 +20,7 @@ and reliability of any project assigned him.
 
 
 ## 😄 About Me
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 - 🌱 I’m currently learning **MERN Stack, At Masai School**
 - 👨‍💻 All of my projects are available at- 📑[Portfolio](https://blackcode1996.github.io/)
@@ -30,7 +30,7 @@ and reliability of any project assigned him.
 
 
 ## 📫 Contact me
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-mukherjee-blackcode1996/)](https://www.linkedin.com/in/aakash-mukherjee-blackcode1996/)
 [![Gmail Badge](https://img.shields.io/badge/-aakashmukherjee1996@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aakashmukherjee1996@gmail.com)](mailto:aakashmukherjee1996@gmail.com)
@@ -40,7 +40,7 @@ and reliability of any project assigned him.
 
 
 ## ⚡ Technologies
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <div>
  
@@ -78,7 +78,6 @@ and reliability of any project assigned him.
 
 
 ## 🏆 GitHub Trophies and Stats
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ![](https://github-profile-trophy.vercel.app/?username=blackcode1996&column=-1&theme=chalk&rank=-?&margin-w=25)
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
