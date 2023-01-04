@@ -1,6 +1,8 @@
 
 <h1 align="center">Hey 👋, I'm<a href="https://github.com/blackcode1996/"> Aakash Mukherjee</a></h1> 
 
+
+
 ### Hello Developer Welcome to my Github! &nbsp; <br/>
 A tech-enthusiast, with 1000+ hours of hands-on
 coding & project experience in developing websites and has a robust problem-solving mindset which
@@ -11,6 +13,7 @@ and reliability of any project assigned him.
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/>
 
 
+
 ## 😄 About Me
 
 - 🌱 I’m currently learning **MERN Stack, At Masai School**
@@ -19,11 +22,14 @@ and reliability of any project assigned him.
 
 
 
+
 ## 📫 Contact me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-mukherjee-blackcode1996/)](https://www.linkedin.com/in/aakash-mukherjee-blackcode1996/)
 [![Gmail Badge](https://img.shields.io/badge/-aakashmukherjee1996@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aakashmukherjee1996@gmail.com)](mailto:aakashmukherjee1996@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/aakash.mukherjee.58-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/aakash.mukherjee.58)](https://www.facebook.com/aakash.mukherjee.58)
+
+
 
 
 ## ⚡ Technologies
