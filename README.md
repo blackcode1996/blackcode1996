@@ -1,8 +1,8 @@
+<div display:"flex" justify-content:"center"><<img src="https://im3.ezgif.com/tmp/ezgif-3-1584c953b1.gif" width="50%" height="50%" style="position:absolute align:center" frameBorder="0"></img>/div>
 
-<img src="https://im3.ezgif.com/tmp/ezgif-3-1584c953b1.gif" width="100%" height="50%" style="position:absolute align:center" frameBorder="0"></img>
 
 
-<h1 align="center"><img marginBottom="-10px" src="https://en.bloggif.com/tmp/6be98d9872c39d6f7cfa6a734c9d8fe5/text.gif?1672864563"/> 🙏, I'm<a href="https://github.com/blackcode1996/"> Aakash Mukherjee</a></h1> 
+<h1 align="center"><img src="https://en.bloggif.com/tmp/6be98d9872c39d6f7cfa6a734c9d8fe5/text.gif?1672864563"/> 🙏, I'm<a href="https://github.com/blackcode1996/"> Aakash Mukherjee</a></h1> 
 
 
 A tech-enthusiast, with 1000+ hours of hands-on
