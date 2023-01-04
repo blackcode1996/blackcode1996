@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I am Aakash Mukherjee, currently learning Software Developemnt from [Masai School](https://www.masischool.com/). I am a Full-Stack Web developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Aakash Mukherjee, currently learning Software Developement from [Masai School](https://www.masischool.com/). I am a Full-Stack Web developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-mukherjee-blackcode1996/)](https://www.linkedin.com/in/aakash-mukherjee-blackcode1996/)
 [![Gmail Badge](https://img.shields.io/badge/-aakashmukherjee1996@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aakashmukherjee1996@gmail.com)](mailto:aakashmukherjee1996@gmail.com)
