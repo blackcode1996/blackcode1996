@@ -73,11 +73,16 @@ and reliability of any project assigned him.
 
 </div>
 <hr>
- 
 
+## 🏆 GitHub Trophies and Stats
+![](https://github-profile-trophy.vercel.app/?username=blackcode1996&column=-1&theme=chalk&rank=-?&margin-w=25)
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
 ![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackcode1996&count_private=true&theme=dark&animations=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=blackcode1996&theme=onedark=ryo-ma)
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=blackcode1996&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=blackcode1996.blackcode1996)
