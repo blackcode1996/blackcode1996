@@ -1,7 +1,25 @@
 
-### Hi there 👋
+<h1 align="center">Hey 👋, I'm<a href="https://github.com/akash-singha-3558/"> Aakash Mukherjee</a></h1> 
 
-I am Aakash Mukherjee, currently learning Software Developement from [Masai School](https://www.masaischool.com/). I am a Full-Stack Web developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+### Hello Developer Welcome to my Github! &nbsp; <br/>
+A tech-enthusiast, with 1000+ hours of hands-on
+coding & project experience in developing websites and has a robust problem-solving mindset which
+enables him to improve the performance, scalability,
+and reliability of any project assigned him.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackcode1996&label=Profile%20views&color=0e75b6&style=flat" alt="blackcode1996" /> </p>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/>
+
+
+## 😄 About Me
+
+- 🌱 I’m currently learning **MERN Stack, At Masai School**
+- 👨‍💻 All of my projects are available at- 📑[Portfolio]([https://aakashmukherjee1996.github.io/])
+- 📄  To see my -[Resume](https://drive.google.com/drive/folders/13CM2D4fn4LYQjxQRT0YMTctPsdgMDuJn?usp=sharing)
+
+
+
+## 📫 Contact me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-mukherjee-blackcode1996/)](https://www.linkedin.com/in/aakash-mukherjee-blackcode1996/)
 [![Gmail Badge](https://img.shields.io/badge/-aakashmukherjee1996@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aakashmukherjee1996@gmail.com)](mailto:aakashmukherjee1996@gmail.com)
