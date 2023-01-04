@@ -25,7 +25,7 @@ I am Aakash Mukherjee, currently learning Software Developemnt from [Masai Schoo
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
-![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackcode1996&count_private=true&theme=dark)
+![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackcode1996&count_private=true&theme=dark&disable_animations=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackcode1996&hide=TeX&count_private=true&theme=dark)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=blackcode1996.blackcode1996)
