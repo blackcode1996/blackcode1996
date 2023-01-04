@@ -39,7 +39,7 @@ and reliability of any project assigned him.
 
 ## ⚡ Technologies
 
-<div align="center">
+<div>
  
  <div align="center"><h3 align="center">Frontend</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
@@ -66,8 +66,14 @@ and reliability of any project assigned him.
    <br/>
  </div>
 </div>
- 
 
+<!--    -->
+
+<!--    --> 
+
+</div>
+<hr>
+ 
 
 ![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackcode1996&count_private=true&theme=dark&animations=true)
 
