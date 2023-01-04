@@ -1,12 +1,13 @@
-
-<img align="center" src="https://im3.ezgif.com/tmp/ezgif-3-1584c953b1.gif" width="100%" height="100%" frameBorder="0"/>
-
-
+<div align="center">
+  <img src="https://im3.ezgif.com/tmp/ezgif-3-1584c953b1.gif" width="50%" height="50%" frameBorder="0"/>
+</div>
 
 <h1 align="center"><img src="https://en.bloggif.com/tmp/6be98d9872c39d6f7cfa6a734c9d8fe5/text.gif?1672864563"/> 🙏, I'm<a href="https://github.com/blackcode1996/"> Aakash Mukherjee</a></h1> 
 
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Quick+learner;Problem+Solver;&color=teal&center=true" />
+</div>
 
-<img align="center" src="https://camo.githubusercontent.com/a3cc6a9d192a1a505685faca291e662f0bcb5c1aa75442b433f56a2e654b74dd/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d46756c6c2b537461636b2b5765622b446576656c6f7065723b517569636b2b6c6561726e65723b50726f626c656d2b536f6c7665723b26636f6c6f723d7465616c2663656e7465723d74727565"/>
 
 A tech-enthusiast, with 1000+ hours of hands-on
 coding & project experience in developing websites and has a robust problem-solving mindset which
