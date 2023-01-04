@@ -1,4 +1,6 @@
-<div display:"flex" justify-content:"center"><<img src="https://im3.ezgif.com/tmp/ezgif-3-1584c953b1.gif" width="50%" height="50%" style="position:absolute align:center" frameBorder="0"></img>/div>
+<div display:"flex" justify-content:"center">
+  <img src="https://im3.ezgif.com/tmp/ezgif-3-1584c953b1.gif" width="50%" height="50%" style="position:absolute align:center" frameBorder="0"/>
+</div>
 
 
 
