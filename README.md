@@ -1,6 +1,5 @@
-<div display:"flex" justify-content:"center">
-  <img align="center" src="https://im3.ezgif.com/tmp/ezgif-3-1584c953b1.gif" width="30%" height="30%" style="position:absolute align:center" frameBorder="0"/>
-</div>
+
+<img align="center" src="https://im3.ezgif.com/tmp/ezgif-3-1584c953b1.gif" width="30%" height="30%" style="position:absolute align:center" frameBorder="0"/>
 
 
 
