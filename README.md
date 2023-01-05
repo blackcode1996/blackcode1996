@@ -1,5 +1,8 @@
 
-![Let's Start Growing](https://user-images.githubusercontent.com/110044436/210884742-4730ae13-2ce3-402c-97f8-a41a65b95ab4.gif)
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/110044436/210884742-4730ae13-2ce3-402c-97f8-a41a65b95ab4.gif"/>
+</div>
 
 
 <h1 align="center"><img src="https://giphy.com/stickers/transparent-L2GyLD6LrTwOyOOMvh"/> 🙏 I'm<a href="https://github.com/blackcode1996/"> Aakash Mukherjee</a></h1> 
