@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://im3.ezgif.com/tmp/ezgif-3-1584c953b1.gif" width="50%" height="50%" frameBorder="0"/>
+  <img src="" width="50%" height="50%" frameBorder="0"/>
 </div>
 
-<h1 align="center"><img src="https://en.bloggif.com/tmp/6be98d9872c39d6f7cfa6a734c9d8fe5/text.gif?1672864563"/> 🙏, I'm<a href="https://github.com/blackcode1996/"> Aakash Mukherjee</a></h1> 
+<h1 align="center"><img src="https://giphy.com/stickers/transparent-L2GyLD6LrTwOyOOMvh"/> 🙏, I'm<a href="https://github.com/blackcode1996/"> Aakash Mukherjee</a></h1> 
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Quick+learner;Problem+Solver;&color=teal&center=true" />
