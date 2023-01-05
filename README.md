@@ -2,7 +2,7 @@
   <img src="" width="50%" height="50%" frameBorder="0"/>
 </div>
 
-<h1 align="center"><img src="https://giphy.com/embed/L2GyLD6LrTwOyOOMvh"/> 🙏, I'm<a href="https://github.com/blackcode1996/"> Aakash Mukherjee</a></h1> 
+<h1 align="center"><div style="width:100%;height:0;padding-bottom:47%;position:relative;"><iframe src="https://giphy.com/embed/L2GyLD6LrTwOyOOMvh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/transparent-L2GyLD6LrTwOyOOMvh">via GIPHY</a></p> 🙏, I'm<a href="https://github.com/blackcode1996/"> Aakash Mukherjee</a></h1> 
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Quick+learner;Problem+Solver;&color=teal&center=true" />
