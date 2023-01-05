@@ -5,7 +5,7 @@
 </div>
 
 
-<h1 align="center"><img src="https://giphy.com/stickers/transparent-L2GyLD6LrTwOyOOMvh"/> 🙏 I'm<a href="https://github.com/blackcode1996/"> Aakash Mukherjee</a></h1> 
+<h1 align="center"><img src="https://user-images.githubusercontent.com/110044436/210887103-ce146e9e-085c-413f-bcbc-c6b8f1b2a4ce.png"/> 🙏 I'm<a href="https://github.com/blackcode1996/"> Aakash Mukherjee</a></h1> 
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Quick+learner;Problem+Solver;&color=teal&center=true" />
