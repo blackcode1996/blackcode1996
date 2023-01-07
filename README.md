@@ -1,7 +1,8 @@
 
 <div align="center" width:"50%">
- <img src="https://user-images.githubusercontent.com/110044436/210884742-4730ae13-2ce3-402c-97f8-a41a65b95ab4.gif"/>
+ <img src="https://user-images.githubusercontent.com/110044436/211146171-95bd2bf4-37d8-43c4-aff8-372cfff8bf5b.gif"/>
 </div>
+
 
 <h1 align="center" display="flex"><img width="120px" src="https://user-images.githubusercontent.com/110044436/211144350-68954e94-e556-41a5-9d4a-1a1bdaffb819.png"/> 🙏 I'm<a href="https://github.com/blackcode1996/"> Aakash Mukherjee</a></h1> 
 
