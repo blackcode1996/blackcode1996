@@ -5,7 +5,7 @@
 </div>
 
 
-<h1 align="center" display="flex"><img width="60px" src="https://user-images.githubusercontent.com/110044436/211144350-68954e94-e556-41a5-9d4a-1a1bdaffb819.png"/> 🙏 I'm<a href="https://github.com/blackcode1996/"> Aakash Mukherjee</a></h1> 
+<h1 align="center" display="flex"><img width="100px" src="https://user-images.githubusercontent.com/110044436/211144350-68954e94-e556-41a5-9d4a-1a1bdaffb819.png"/> 🙏 I'm<a href="https://github.com/blackcode1996/"> Aakash Mukherjee</a></h1> 
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Quick+learner;Problem+Solver;&color=teal&center=true" />
