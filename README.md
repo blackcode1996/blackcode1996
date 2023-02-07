@@ -80,7 +80,9 @@
 
 
 ## 🏆 GitHub Trophies and Stats
-![](https://github-profile-trophy.vercel.app/?username=blackcode1996&column=-1&theme=chalk&rank=-?&margin-w=25)
+<p align="center">
+  <img src={https://github-profile-trophy.vercel.app/?username=blackcode1996&column=-1&theme=chalk&rank=-?&margin-w=25}/>
+</P>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
