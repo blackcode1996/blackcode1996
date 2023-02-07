@@ -81,7 +81,7 @@
 
 ## 🏆 GitHub Trophies and Stats
 ![](https://github-profile-trophy.vercel.app/?username=blackcode1996&column=-1&theme=chalk&rank=-?&margin-w=25)
-</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 ![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackcode1996&count_private=true&theme=dark&animations=true&width=100%)
