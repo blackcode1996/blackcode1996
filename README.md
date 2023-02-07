@@ -87,7 +87,7 @@
  
 <p align="center">
    <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp">
-  ![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackcode1996&count_private=true&theme=dark&animations=true&width=100%)
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=blackcode1996&count_private=true&theme=dark&animations=true&width=100%" alt="Aakash"/>
    <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp">
 </p>
 
