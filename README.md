@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, At Masai School**
 - 👨‍💻 All of my projects are available at- 📑[Portfolio](https://blackcode1996.github.io/)
-- 📄  To see my -[Resume](https://drive.google.com/file/d/1DGs-bUVYzhtYaKHO6WVLHegLxLXubbdB/view?usp=sharing)
+- 📄  To see my -[Resume](https://drive.google.com/file/d/1VqZwVQK7bAasYpIi7VRMalVq0VkTiz72/view?usp=sharing)
 
 
 
