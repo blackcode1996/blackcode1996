@@ -95,7 +95,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=blackcode1996&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![blackcode1996's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=blackcode1996&theme=dracula)](https://github.com/blackcode1996/github-readme-activity-graph)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
